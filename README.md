@@ -13,6 +13,12 @@ I am Frontend-heavy/Fullstack developer.
 
 ### Skills
 
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="24" height="24" alt="Javascro[t">
+
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="24" height="24" alt="ReactJS">
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="24" height="24" alt="JavaScript">
+<img align="left" src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" width="24" height="24" alt="TypeScript">
+<img align="left" src="https://img.icons8.com/?size=512&id=74402&format=png" width="24" height="24" alt="MongoDB">
+
+
 
 ### Socials
