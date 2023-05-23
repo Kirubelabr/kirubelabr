@@ -19,7 +19,7 @@ I am Frontend-heavy/Fullstack developer.
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="36" height="36" alt="React" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="36" height="36" alt="React" /></a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/36/000000/angularjs.png" width="36" height="36" alt="Angular" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="36" height="36" alt="NextJs" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
