@@ -5,11 +5,11 @@ Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"
 I am Frontend-heavy / Fullstack developer.
 ---------------------------------------
 
-* 🌍 Based in Addis Ababa, Ethiopia
-* 🖥️ Currently working on Dado HR[http://dadohr.com/]
-* 🧠 Learning React | NextJS | GraphQL
-* 💬 Contact me at [kirubelabr@gmail.com](mailto:kirubelabr@gmail.com)
-* 🤝 I'm open to collaborating on interesting projects as a Frontend-heavy/Fullstack Developer
+* 🌍  Based in Addis Ababa, Ethiopia
+* 🖥️  Currently working on Dado HR[http://dadohr.com/]
+* 🧠  Learning React | NextJS | GraphQL
+* 💬  Contact me at [kirubelabr@gmail.com](mailto:kirubelabr@gmail.com)
+* 🤝  I'm open to collaborating on interesting projects as a Frontend-heavy/Fullstack Developer
 
 ### Skills
 
