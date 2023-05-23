@@ -1,5 +1,5 @@
 
-Hi ![](https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif)I'm Kirubel 
+Hi ![]<img src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="40" height="40" />I'm Kirubel 
 ========================================================================================================================================
 
 I am Frontend-heavy / Fullstack developer.
