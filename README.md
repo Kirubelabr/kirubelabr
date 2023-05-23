@@ -13,8 +13,6 @@ I am Frontend-heavy/Fullstack developer.
 
 ### Skills
 
-<img align="left" src="https://iconscout.com/icon/node-js-1" />
-
-
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="256" height="256" alt="Javascro[t">
 
 ### Socials
