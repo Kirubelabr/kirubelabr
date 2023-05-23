@@ -15,7 +15,7 @@ I am Frontend-heavy/Fullstack developer.
 
 <p>
 <img align="left" src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" width="24" height="24" alt="ReactJS">
-<img align="left" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="24" height="24" alt="JavaScript">
+<img align="left" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="24" height="24" alt="JavaScript">
 <img align="left" src="https://img.icons8.com/?size=32&id=uJM6fQYqDaZK&format=png" alt="TypeScript">
 <img align="left" src="https://img.icons8.com/?size=32&id=74402&format=png" alt="MongoDB">
 
