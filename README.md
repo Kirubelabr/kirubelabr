@@ -13,7 +13,6 @@ I am Frontend-heavy/Fullstack developer.
 
 ### Skills
 
-<p align="left">
 <a style="margin-right: 10px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="36" height="36" alt="JavaScript" /></a>
 <a style="margin-right: 10px;" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="36" height="36" alt="TypeScript" /></a>
 <a style="margin-right: 10px;" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="36" height="36" alt="HTML5" /></a>
@@ -31,7 +30,6 @@ I am Frontend-heavy/Fullstack developer.
 <a style="margin-right: 10px;" href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/dusk/36/000000/docker.png" width="36" height="36" alt="Docker" /></a>
 <a style="margin-right: 10px;" href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a style="margin-right: 10px;" href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
 
 
 ### Socials
