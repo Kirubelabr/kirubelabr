@@ -76,3 +76,9 @@ I am Frontend-heavy / Fullstack developer.
   <a href="https://github.com/Kirubelabr" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png" width="36" height="36" alt="Kirubel - Github" /></a>
 </p>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kirubelabr&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- https://github-readme-streak-stats.herokuapp.com/?user=Kirubelabr -->
