@@ -80,6 +80,8 @@ I am Frontend-heavy / Fullstack developer.
 
 ### :fire: My Stats :
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Kirubelabr=anuraghazra&theme=transparent&show_icons=true)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kirubelabr&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirubelabr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
