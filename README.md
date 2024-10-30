@@ -6,8 +6,7 @@ I am Frontend-heavy / Fullstack developer.
 ---------------------------------------
 
 * 🌍    Based in Addis Ababa, Ethiopia
-* 🖥️    Currently working on Dado HR[http://dadohr.com/]
-* 🧠    Learning React | NextJS | GraphQL
+* 🖥️    Currently working on Kealbo
 * 💬    Contact me at [kirubelabr@gmail.com](mailto:kirubelabr@gmail.com)
 * 🤝    I'm open to collaborating on interesting projects as a Frontend-heavy/Fullstack Developer
 
