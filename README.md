@@ -24,7 +24,7 @@ I am Frontend-heavy / Fullstack developer.
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirubelabr&theme=transparent&show_icons=true)
+![Kirubel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirubelabr&theme=transparent&show_icons=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kirubelabr&theme=dark&background=000000)](https://git.io/streak-stats)
 
